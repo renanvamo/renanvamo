@@ -10,10 +10,10 @@ Aprofundando inicialmente em frameworks para Front-End, e em seguida Back-End.
 
 Aprendizado é um estado constante de desenvolvimento, e a prática é a maneira mais eficiente de aprender. Portanto, é por meio da prática que venho desenvolvendo hard skills em:
 
-* ![Javascript](https://img.icons8.com/color/36/000000/javascript.png) - **Javascript** 
-* ![HTML5](https://img.icons8.com/color/36/000000/html-5--v1.png) - **HTML5**
-* ![CSS3](https://img.icons8.com/color/36/000000/css3.png) - **CSS3** 
-* ![Bootstrap](https://img.icons8.com/color/36/000000/bootstrap.png) - **Bootstrap** 
+* ![Javascript](https://img.icons8.com/color/36/ffffff/javascript.png) - **Javascript** 
+* ![HTML5](https://img.icons8.com/color/36/ffffff/html-5--v1.png) - **HTML5**
+* ![CSS3](https://img.icons8.com/color/36/ffffff/css3.png) - **CSS3** 
+* ![Bootstrap](https://img.icons8.com/color/36/ffffff/bootstrap.png) - **Bootstrap** 
 * ![GitHub](https://img.icons8.com/metro/36/ffffff/github.png) - **GitHub** 
 
 E também serão abordados futuramente durante o curso:
