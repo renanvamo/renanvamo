@@ -4,7 +4,7 @@
 
 Atualmente estudante da *Trybe!* 2021/2022
 
-Aprofundando inicialmente em frameworks para Front-End, e em seguida Back-End.
+Aprofundando inicialmente em JavaScript e frameworks para Front-End, para em seguida, partir para o Back-End.
 
 ### Skills
 
@@ -34,6 +34,16 @@ Além do estudo de *metodologias ágeis*, também trabalhamos competências impo
 * *Organização e foco em objetivos*
 * *Trabalho em grupo*
 * *Constante preocupação em: Inclusão, Empatia e Escuta Ativa.
+
+### Modelo de Aprendizagem
+
+Aprender a aprender - metologia de estudo voltada para a capacidade de elaborar assertivamente boas pesquisas e encontrar soluções práticas para problemas que surgem no dia a dia da programação, usando fontes de pesquisa como **documentação**, discussões com a comunidade e, em último caso, ajuda de devs mais experientes.
+
+Já dizia o sábio: 
+
+>"Um bom dev não é aquele que sabe todas as respostas, mas aquele que sabe como encontra-las rapidamente no Google, e aplica-la depois."
+
+Ter um tempo para estudar conceitos novos, e outro momento para pratica-los, fazendo uma rotina diária de estudos intercalado com projetos do curso em andamento, e projetos pessoais. 
 
 ### Objetivo
 
