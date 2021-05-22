@@ -1,4 +1,4 @@
-### Hello World! 👋 
+### Hello World!
 
 Sou o [Renan](https://www.linkedin.com/in/renan-moraes-a86805203/).
 
@@ -6,7 +6,7 @@ Atualmente estudante da Trybe!
 
 Aprendizado é um estado constante de desenvolvimento, e a prática é a maneira mais eficiente de aprender.
 
-Estudando: ![Javascript]("https://icons8.com/icon/108784/javascript")
+Estudando: ![Javascript](https://img.icons8.com/color/100/000000/javascript.png)
 
 
 
