@@ -1,12 +1,13 @@
-### Hello World!
+### Hello World! :star:
 
 Sou o [Renan](https://www.linkedin.com/in/renan-moraes-a86805203/).
 
-Atualmente estudante da Trybe!
+Atualmente estudante da *Trybe!* 2021/2022
 
-Aprendizado é um estado constante de desenvolvimento, e a prática é a maneira mais eficiente de aprender.
 
-Estudando: ![Javascript](https://img.icons8.com/color/20/000000/javascript.png)
+Aprendizado é um estado constante de desenvolvimento, e a prática é a maneira mais eficiente de aprender. Portanto, é por meio da prática que venho desenvolvendo hard skills em:
+
+![Javascript](https://img.icons8.com/color/36/000000/javascript.png) ![HTML5](https://img.icons8.com/color/36/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/36/000000/css3.png) 
 
 
 
