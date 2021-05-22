@@ -53,6 +53,7 @@ Entrada no mercado de trabalho, em empresas que estimulem o aprendizado constant
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvamo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Visitors ![Visitor Count](https://profile-counter.glitch.me/renanvamo/count.svg)
+<div style="text-align:center">#### Visitors 
+![Visitor Count](https://profile-counter.glitch.me/renanvamo/count.svg)</div>
 
 
