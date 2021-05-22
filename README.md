@@ -43,7 +43,7 @@ Já dizia o sábio:
 
 >"Um bom dev não é aquele que sabe todas as respostas, mas aquele que sabe como encontra-las rapidamente no Google, e aplica-la depois." [Sábio Dev]
 
-Ter um tempo para estudar conceitos novos, e outro momento para pratica-los, fazendo uma rotina diária de estudos intercalado com projetos do curso em andamento, e projetos pessoais. 
+Ter um tempo para estudar conceitos novos, e outro momento para pratica-los, fazendo uma rotina diária de estudos intercalado com projetos do curso em andamento, e projetos pessoais, utilizando ferramentas importantes como GitHub diáriamente.
 
 ### Objetivo
 
