@@ -41,14 +41,13 @@ Aprender a aprender - metologia de estudo voltada para a capacidade de elaborar 
 
 Já dizia o sábio: 
 
->"Um bom dev não é aquele que sabe todas as respostas, mas aquele que sabe como encontra-las rapidamente no Google, e aplica-la depois." [Sábio Dev]
+>"*Um bom dev não é aquele que sabe todas as respostas, mas aquele que sabe como encontra-las rapidamente no Google, e aplica-la depois.*" Sábio Dev
 
 Ter um tempo para estudar conceitos novos, e outro momento para pratica-los, fazendo uma rotina diária de estudos intercalado com projetos do curso em andamento, e projetos pessoais, utilizando ferramentas importantes como GitHub diáriamente.
 
 ### Objetivo
 
 Entrada no mercado de trabalho, em empresas que estimulem o aprendizado constante e incentivem a troca de idéias em busca de soluções inovadores para problemas conhecidos.
-)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvamo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
