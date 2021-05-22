@@ -2,7 +2,7 @@
 
 ## Sou o [Renan](https://www.linkedin.com/in/renan-moraes-a86805203/).
 
-Atualmente estudante da *Trybe!* 2021/2022
+Atualmente estudante da *<span style="color:green">Trybe</span>* 2021/2022
 
 Aprofundando inicialmente em JavaScript e frameworks para Front-End, para em seguida, partir para o Back-End.
 
@@ -54,6 +54,6 @@ Entrada no mercado de trabalho, em empresas que estimulem o aprendizado constant
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvamo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Visitantes: ![Visitor Count](https://profile-counter.glitch.me/renanvamo/count.svg)
+## Visitas: ![Visitor Count](https://profile-counter.glitch.me/renanvamo/count.svg)
  
 </div>
