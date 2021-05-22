@@ -6,7 +6,7 @@ Atualmente estudante da Trybe!
 
 Aprendizado é um estado constante de desenvolvimento, e a prática é a maneira mais eficiente de aprender.
 
-Estudando: ![Javascript](<a href="https://icons8.com/icon/108784/javascript">Javascript icon by Icons8</a>)
+Estudando: ![Javascript]("https://icons8.com/icon/108784/javascript")
 
 
 
