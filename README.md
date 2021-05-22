@@ -1,35 +1,32 @@
 # Hello World! :star:
 
-### Sou o [Renan](https://www.linkedin.com/in/renan-moraes-a86805203/).
+## Sou o [Renan](https://www.linkedin.com/in/renan-moraes-a86805203/).
 
 Atualmente estudante da *Trybe!* 2021/2022
+
+Aprofundando inicialmente em frameworks para Front-End, e em seguida Back-End.
 
 ### Skills
 
 Aprendizado é um estado constante de desenvolvimento, e a prática é a maneira mais eficiente de aprender. Portanto, é por meio da prática que venho desenvolvendo hard skills em:
 
-* **Javascript** ![Javascript](https://img.icons8.com/color/36/000000/javascript.png) 
-* **HTML5** ![HTML5](https://img.icons8.com/color/36/000000/html-5--v1.png) 
-* **CSS3** ![CSS3](https://img.icons8.com/color/36/000000/css3.png) 
-* **Bootstrap** ![Bootstrap](https://img.icons8.com/color/36/000000/bootstrap.png)  
-* **GitHub** ![GitHub](https://img.icons8.com/ios-filled/36/000000/github.png)  
+* ![Javascript](https://img.icons8.com/color/36/000000/javascript.png) - **Javascript** 
+* ![HTML5](https://img.icons8.com/color/36/000000/html-5--v1.png) - **HTML5**
+* ![CSS3](https://img.icons8.com/color/36/000000/css3.png) - **CSS3** 
+* ![Bootstrap](https://img.icons8.com/color/36/000000/bootstrap.png) - **Bootstrap** 
+* ![GitHub](https://img.icons8.com/ios-filled/36/000000/github.png) - **GitHub** 
 
-E também serão abordados durante o curso:
+E também serão abordados futuramente durante o curso:
 
-* **React** ![React](https://img.icons8.com/cute-clipart/36/000000/react-native.png) 
+* ![React](https://img.icons8.com/wired/64/000000/react.png) - **React** 
+* ![React](https://img.icons8.com/ios/50/000000/redux.png) - **Redux**
+ 
+### Soft-Skills
 
+Também trabalhamos competências importantes relacionadas as soft-skills:
 
-<!--
-**renanvamo/renanvamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* *Inteligência emocional*
+* *Metodoliga de aprendizagem autoditada - Aprender a aprender*
+* *Organização e foco em objetivos*
+* *Trabalho em grupo*
+* *Constante preocupação em: Inclusão, Empatia e Escuta Ativa.
