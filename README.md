@@ -2,7 +2,7 @@
 
 ## Sou o [Renan](https://www.linkedin.com/in/renan-moraes-a86805203/).
 
-Atualmente estudante da *<span style="color:green">Trybe</span>* 2021/2022
+Atualmente estudante da *<font style=color:'green'>Trybe</font>* 2021/2022
 
 Aprofundando inicialmente em JavaScript e frameworks para Front-End, para em seguida, partir para o Back-End.
 
