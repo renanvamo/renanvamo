@@ -49,4 +49,5 @@ Ter um tempo para estudar conceitos novos, e outro momento para pratica-los, faz
 
 Entrada no mercado de trabalho, em empresas que estimulem o aprendizado constante e incentivem a troca de idéias em busca de soluções inovadores para problemas conhecidos.
 
+[![Renan Moraes GitHub stats](https://github-readme-stats.vercel.app/apirenanvamoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
