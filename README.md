@@ -52,7 +52,7 @@ Entrada no mercado de trabalho, em empresas que estimulem o aprendizado constant
 ---
 
 <div align="center">
-[![Renan Moraes GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvamo)](https://github.com/anuraghazra/github-readme-stats)
+[![Renan Moraes GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvamo&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Visitantes
 ![Visitor Count](https://profile-counter.glitch.me/renanvamo/count.svg)
