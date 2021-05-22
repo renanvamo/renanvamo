@@ -14,16 +14,16 @@ Aprendizado é um estado constante de desenvolvimento, e a prática é a maneira
 * ![HTML5](https://img.icons8.com/color/36/000000/html-5--v1.png) - **HTML5**
 * ![CSS3](https://img.icons8.com/color/36/000000/css3.png) - **CSS3** 
 * ![Bootstrap](https://img.icons8.com/color/36/000000/bootstrap.png) - **Bootstrap** 
-* ![GitHub](https://img.icons8.com/ios-filled/36/000000/github.png) - **GitHub** 
+* ![GitHub](https://img.icons8.com/metro/36/ffffff/github.png) - **GitHub** 
 
 E também serão abordados futuramente durante o curso:
 
-* ![React](https://img.icons8.com/wired/36/000000/react.png) - **React** 
-* ![Redux](https://img.icons8.com/ios/36/000000/redux.png) - **Redux**
-* ![SQL](https://img.icons8.com/metro/36/000000/sql.png) - **SQL**
-* ![MongoDB](https://img.icons8.com/color/36/000000/mongodb.png) - **MongoDB**
-* ![NodeJS](https://img.icons8.com/windows/36/000000/node-js.png) - **NodeJS
-* ![RESTRESTful](https://img.icons8.com/ios/36/000000/redux.png) - **REST e RESTful**
+* ![React](https://img.icons8.com/wired/36/ffffff/react.png) - **React** 
+* ![Redux](https://img.icons8.com/ios/36/ffffff/redux.png) - **Redux**
+* ![SQL](https://img.icons8.com/metro/36/ffffff/sql.png) - **SQL**
+* ![MongoDB](https://img.icons8.com/color/36/ffffff/mongodb.png) - **MongoDB**
+* ![NodeJS](https://img.icons8.com/windows/36/ffffff/node-js.png) - **NodeJS
+* ![RESTRESTful](https://img.icons8.com/ios/36/ffffff/redux.png) - **REST e RESTful**
  
 ### Soft-Skills
 
