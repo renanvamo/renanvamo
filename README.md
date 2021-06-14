@@ -25,15 +25,6 @@ E também serão abordados futuramente durante o curso:
 * ![NodeJS](https://img.icons8.com/windows/36/ffffff/node-js.png) - **NodeJS
 * ![RESTRESTful](https://img.icons8.com/ios/36/ffffff/redux.png) - **REST e RESTful**
  
-### Soft-Skills
-
-Além do estudo de *metodologias ágeis*, também trabalhamos competências importantes relacionadas as soft-skills:
-
-* *Inteligência emocional*
-* *Metodoliga de aprendizagem autoditada - Aprender a aprender*
-* *Organização e foco em objetivos*
-* *Trabalho em grupo*
-* *Constante preocupação em: Inclusão, Empatia e Escuta Ativa.
 
 ### Modelo de Aprendizagem
 
@@ -44,11 +35,6 @@ Já dizia o sábio:
 >"*Um bom dev não é aquele que sabe todas as respostas, mas aquele que sabe como encontra-las rapidamente no Google, e aplica-la depois.*" Sábio Dev
 
 Ter um tempo para estudar conceitos novos, e outro momento para pratica-los, fazendo uma rotina diária de estudos intercalado com projetos do curso em andamento, e projetos pessoais, utilizando ferramentas importantes como GitHub diáriamente.
-
-### Objetivo
-
-Entrada no mercado de trabalho, em empresas que estimulem o aprendizado constante e incentivem a troca de idéias em busca de soluções inovadores para problemas conhecidos.
-
 ---
 <div align="center">
 
