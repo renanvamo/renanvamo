@@ -15,10 +15,10 @@ Aprendizado é um estado constante de desenvolvimento, e a prática é a maneira
 * ![CSS3](https://img.icons8.com/color/36/ffffff/css3.png) - **CSS3** 
 * ![Bootstrap](https://img.icons8.com/color/36/ffffff/bootstrap.png) - **Bootstrap** 
 * ![GitHub](https://img.icons8.com/metro/36/ffffff/github.png) - **GitHub** 
+* ![React](https://img.icons8.com/wired/36/ffffff/react.png) - **React** 
 
 E também serão abordados futuramente durante o curso:
 
-* ![React](https://img.icons8.com/wired/36/ffffff/react.png) - **React** 
 * ![Redux](https://img.icons8.com/ios/36/ffffff/redux.png) - **Redux**
 * ![SQL](https://img.icons8.com/metro/36/ffffff/sql.png) - **SQL**
 * ![MongoDB](https://img.icons8.com/color/36/ffffff/mongodb.png) - **MongoDB**
