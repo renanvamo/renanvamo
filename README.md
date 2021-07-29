@@ -1,45 +1,65 @@
-# Hello World! :star:
-
-## Sou o [Renan](https://www.linkedin.com/in/renan-moraes-a86805203/).
-
-Atualmente estudante da __*Trybe!*__ 2021/2022
-
-Aprofundando inicialmente em JavaScript e frameworks para Front-End, para em seguida, partir para o Back-End.
-
-### Skills
-
-Aprendizado é um estado constante de desenvolvimento, e a prática é a maneira mais eficiente de aprender. Portanto, é por meio da prática que venho desenvolvendo hard skills em:
-
-* ![Javascript](https://img.icons8.com/color/36/ffffff/javascript.png) - **Javascript** 
-* ![HTML5](https://img.icons8.com/color/36/ffffff/html-5--v1.png) - **HTML5**
-* ![CSS3](https://img.icons8.com/color/36/ffffff/css3.png) - **CSS3** 
-* ![Bootstrap](https://img.icons8.com/color/36/ffffff/bootstrap.png) - **Bootstrap** 
-* ![GitHub](https://img.icons8.com/metro/36/ffffff/github.png) - **GitHub** 
-* ![React](https://img.icons8.com/wired/36/ffffff/react.png) - **React** 
-
-E também serão abordados futuramente durante o curso:
-
-* ![Redux](https://img.icons8.com/ios/36/ffffff/redux.png) - **Redux**
-* ![SQL](https://img.icons8.com/metro/36/ffffff/sql.png) - **SQL**
-* ![MongoDB](https://img.icons8.com/color/36/ffffff/mongodb.png) - **MongoDB**
-* ![NodeJS](https://img.icons8.com/windows/36/ffffff/node-js.png) - **NodeJS
-* ![RESTRESTful](https://img.icons8.com/ios/36/ffffff/redux.png) - **REST e RESTful**
- 
-
-### Modelo de Aprendizagem
-
-Aprender a aprender - metologia de estudo voltada para a capacidade de elaborar assertivamente boas pesquisas e encontrar soluções práticas para problemas que surgem no dia a dia da programação, usando fontes de pesquisa como **documentação**, discussões com a comunidade e, em último caso, ajuda de devs mais experientes.
-
-Já dizia o sábio: 
-
->"*Um bom dev não é aquele que sabe todas as respostas, mas aquele que sabe como encontra-las rapidamente no Google, e aplica-la depois.*" Sábio Dev
-
-Ter um tempo para estudar conceitos novos, e outro momento para pratica-los, fazendo uma rotina diária de estudos intercalado com projetos do curso em andamento, e projetos pessoais, utilizando ferramentas importantes como GitHub diáriamente.
----
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvamo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Visitas: ![Visitor Count](https://profile-counter.glitch.me/renanvamo/count.svg)
- 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
+
+---
+
+### <div align="center">I'm Renan, a web development student at trybe, learning front and back-end, 🚀</div>  
+
+---
+
+- 🔭 I’m working on some class projects . 
+  
+- 🌱 I’m currently learning React, Hooks and Redux.  
+  
+- ❓ Ask me anything about my experiencies, and also contact me at [Linkedin](https://www.linkedin.com/in/renan-moraes-a86805203/?_l=pt_BR)  
+  
+- ⚡ Fun fact: Since I started with programming, I'm really good at typing while I'm lunching. 👨‍💻  
+  
+<br/>  
+
+## My Skill Set  
+<table><tr><td>
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/renan-moraes-a86805203" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/renan.moraes.1420" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/renanvamo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=renanvamo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=renanvamo&&style=flat-square" align="center" />
+</div>  
+  
+<br/>  
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
