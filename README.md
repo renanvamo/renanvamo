@@ -1,6 +1,6 @@
 
 ![github-header-image](https://user-images.githubusercontent.com/77035480/218270131-2b3000b6-9b2d-4127-a492-0eebdb7fba8b.png)
-<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg](https://user-images.githubusercontent.com/77035480/218270131-2b3000b6-9b2d-4127-a492-0eebdb7fba8b.png)" alt="hello_world" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/77035480/218270131-2b3000b6-9b2d-4127-a492-0eebdb7fba8b.png" alt="hello_world" />  
 ---
 
 - 🔭 . 
