@@ -1,9 +1,8 @@
 <p align="center" width="100%">
     <img src="https://user-images.githubusercontent.com/77035480/218270131-2b3000b6-9b2d-4127-a492-0eebdb7fba8b.png" alt="hello_world">
 </p>
----
 
-- 🔭 . 
+- 🔭  . 
   
 - 🌱 I’m currently learning MongoDB and NodeJS.  
   
