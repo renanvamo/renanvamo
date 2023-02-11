@@ -2,7 +2,9 @@
     <img src="https://user-images.githubusercontent.com/77035480/218271412-89b059d1-a501-413e-b345-706bbd2b30e2.png" alt="hello_world">
 </p>
 
-- 🔭  . 
+- :date: Last Profile Update - <>
+
+- 🔭  I'm currently working for a private company, so I have been using my github less than I would like. 
   
 - 🌱 I’m currently learning MongoDB and NodeJS.  
   
