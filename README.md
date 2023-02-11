@@ -1,6 +1,4 @@
-<div style="margin: auto">
-  <img style="margin: 30px" src="https://user-images.githubusercontent.com/77035480/218270131-2b3000b6-9b2d-4127-a492-0eebdb7fba8b.png" alt="hello_world" />    
-</div>
+<img style="margin: 30px" src="https://user-images.githubusercontent.com/77035480/218270131-2b3000b6-9b2d-4127-a492-0eebdb7fba8b.png" alt="hello_world"/>    
 ---
 
 - 🔭 . 
