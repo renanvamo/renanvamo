@@ -1,5 +1,6 @@
 
-<img style="align-text: center" src="https://user-images.githubusercontent.com/77035480/218269957-15948b0a-469a-4875-9939-e1b124d05b9b.png" alt="Hello World" height="50" />
+![github-header-image](https://user-images.githubusercontent.com/77035480/218270131-2b3000b6-9b2d-4127-a492-0eebdb7fba8b.png)
+<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg](https://user-images.githubusercontent.com/77035480/218270131-2b3000b6-9b2d-4127-a492-0eebdb7fba8b.png)" alt="hello_world" />  
 ---
 
 - 🔭 . 
