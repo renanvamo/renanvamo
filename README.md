@@ -1,8 +1,9 @@
-### <div align="center">Hello! I'm Renan, a web development student at trybe, learning front and back-end, 🚀</div>  
+![github-header-image](https://user-images.githubusercontent.com/77035480/218269957-15948b0a-469a-4875-9939-e1b124d05b9b.png)
+
 
 ---
 
-- 🔭 I’m working on some class projects. 
+- 🔭 . 
   
 - 🌱 I’m currently learning MongoDB and NodeJS.  
   
