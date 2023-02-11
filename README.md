@@ -6,7 +6,7 @@
 
 - :grey_exclamation: I'm currently working for a private company, so I have been using my github less than I would like. 
   
-- :blue_book: Actually, I'm learning Java Frameworks, documentation with Swagger and other Stuffs that I need to use on my job.  
+- :blue_book: Lately, I'm learning some frameworks for Java, documentation with Swagger and other stuffs that I need to use on my job.  
   
 - ❓ Ask me anything about my experiencies, and also contact me at [Linkedin](https://www.linkedin.com/in/renan-moraes-a86805203/?_l=pt_BR)  
   
