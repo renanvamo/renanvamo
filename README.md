@@ -37,5 +37,7 @@
 ### :thought_balloon: To think
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://visitcount.itsvg.in/api?id=renanvamo&icon=3&color=0)](https://visitcount.itsvg.in)
+<div>
+    ![](https://visitcount.itsvg.in/api?id=renanvamo&icon=3&color=0)
+</div>
 
