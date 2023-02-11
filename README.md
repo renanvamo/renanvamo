@@ -1,5 +1,5 @@
 
-<img style="align-text: center" src="(https://user-images.githubusercontent.com/77035480/218269957-15948b0a-469a-4875-9939-e1b124d05b9b.png)" alt="Hello World" height="50" />
+<img style="align-text: center" src="https://user-images.githubusercontent.com/77035480/218269957-15948b0a-469a-4875-9939-e1b124d05b9b.png" alt="Hello World" height="50" />
 ---
 
 - 🔭 . 
