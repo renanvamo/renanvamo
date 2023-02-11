@@ -2,11 +2,11 @@
     <img src="https://user-images.githubusercontent.com/77035480/218271412-89b059d1-a501-413e-b345-706bbd2b30e2.png" alt="hello_world">
 </p>
 
-- :date: Last Profile Update - <>
+- :date: Last profile update - <02/2023>
 
-- 🔭  I'm currently working for a private company, so I have been using my github less than I would like. 
+- :grey_exclamation: I'm currently working for a private company, so I have been using my github less than I would like. 
   
-- 🌱 I’m currently learning MongoDB and NodeJS.  
+- :blue_book: Actually, I'm learning Java Frameworks, documentation with Swagger and other Stuffs that I need to use on my job.  
   
 - ❓ Ask me anything about my experiencies, and also contact me at [Linkedin](https://www.linkedin.com/in/renan-moraes-a86805203/?_l=pt_BR)  
   
