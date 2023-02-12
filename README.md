@@ -62,7 +62,6 @@
 <a href="https://github.com/renanvamo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-</div>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5511963432571&text=Ol%C3%A1,%20entrei%20em%20contato%20atrav%C3%A9s%20do%20seu%20perfil%20github!" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=github style="margin-bottom: 5px;" />
